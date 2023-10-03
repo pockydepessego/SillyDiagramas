@@ -16,7 +16,6 @@ Macro Funções:
 •	Geração de Código
 •	Revisão e Validação do Código
 •	Notificações
-Do chatGPT!
 Macro funções:
 1.	Registo, Autenticação e Gestão:
 •	Autenticação e Segurança: Fornecer funcionalidades de registo e autenticação para os utilizadores.
