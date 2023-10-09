@@ -1,16 +1,16 @@
 Macro Funções Principais:
 
-•	Registo, Autenticação e Gestão do Utilizador
+• Registo, Autenticação e Gestão do Utilizador
     •	Fornecer funcionalidades de registo e autenticação (através de notificação)
     •	Gestão das suas informações e perfil
 
-•	Tokens
+• Tokens
     •	Comprar e usar para gerar código
     •	Gerir o processo de validação do plano dos utilizadores
     •	Cálculo de consumos 
     •	Gestão dos tokens do utilizador (consultar/ comprar)
 
-•	Processo de Desenvolvimento de um Projeto
+• Processo de Desenvolvimento de um Projeto
     •	Dar upload dos Diagramas
     •	Biblioteca de Diagramas
     •	Criação e setup de um Projeto
@@ -21,7 +21,7 @@ Macro Funções Principais:
     •	Geração de Código
     •	Revisão e Validação do Código
 
-  •	Notificações
+• Notificações
     •	Notificações em cada etapa do projeto
 
 Macro funções:
