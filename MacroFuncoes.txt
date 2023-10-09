@@ -3,28 +3,34 @@ Macro Funções Principais:
 •	Registo, Autenticação e Gestão do Utilizador
     •	Fornecer funcionalidades de registo e autenticação (através de notificação)
     •	Gestão das suas informações e perfil
+
 •	Tokens
     •	Comprar e usar para gerar código
     •	Gerir o processo de validação do plano dos utilizadores
     •	Cálculo de consumos 
     •	Gestão dos tokens do utilizador (consultar/ comprar)
+
 •	Processo de Desenvolvimento de um Projeto
     •	Dar upload dos Diagramas
     •	Biblioteca de Diagramas
     •	Criação e setup de um Projeto
     •	Integração com Repositórios de Código
+
 • Desenvolvimento do código 
     •	Análise e Estimativa de Custos
     •	Geração de Código
     •	Revisão e Validação do Código
+
   •	Notificações
     •	Notificações em cada etapa do projeto
 
 Macro funções:
+
 1.	Registo, Autenticação e Gestão:
     •	Autenticação e Segurança: Fornecer funcionalidades de registo e autenticação para os utilizadores.
     •	Gestão de Informações e Perfil: Permitir aos utilizadores gerir as suas informações e perfil na plataforma.
     •	Plano de Utilização: Gerir o acesso ao serviço com base em pacotes de créditos/tokens que os utilizadores podem comprar e utilizar para gerar código. Isso inclui a validação do plano dos utilizadores, o cálculo de consumos e a gestão dos tokens pelos utilizadores.
+
 2.	Processo de Desenvolvimento de um Projeto:
     •	Upload dos Diagramas: Permitir aos utilizadores fazer o upload de fotos de diagramas, seja através do website ou aplicação móvel, e importar arquivos de ferramentas CASE populares.
     •	Biblioteca de Diagramas: Fornecer a cada utilizador uma biblioteca na plataforma para armazenar e organizar os seus diagramas, permitindo a reutilização em novos projetos.
@@ -35,6 +41,7 @@ Macro funções:
 
 Micro funções:
 Dentro de cada macro função, existem várias micro funções específicas que precisam ser implementadas. Por exemplo:
+
 1.	Para a macro função "Registo, Autenticação e Gestão," as micro funções podem incluir:
     •	Implementar um sistema de registo seguro.
     •	Desenvolver um sistema de autenticação com verificação em duas etapas.
@@ -42,6 +49,7 @@ Dentro de cada macro função, existem várias micro funções específicas que 
     •	Desenvolver um sistema de gestão de créditos/tokens.
     •	Implementar um sistema de compra de tokens.
     •	Desenvolver um painel de controlo para a gestão de tokens.
+
 2.	Para a macro função "Processo de Desenvolvimento de um Projeto," as micro funções podem incluir:
     •	Criar uma interface de upload de diagramas.
     •	Implementar a conversão de imagens de diagramas em formato digital padrão.
