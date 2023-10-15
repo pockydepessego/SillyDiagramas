@@ -1,19 +1,46 @@
-Levantamento de Requisitos
+Levantamento de requisitos funcionais
 
-RF1. O sistema deverá permitir efetuar registo ao utilizador.
-RF2. O sistema deverá permitir o log-in e o log-out dos utilizadores.
-RF3. O sistema deverá permitir a gestão CRUD do utilizador. (CRUD- Create, Read, Update, Delete.)
-RF4. O sistema deverá permitir compra de tokens.
-RF5. O sistema deverá permitir consulta dos tokens.
-RF6. O sistema deverá permitir o cálculo do consumo de tokens.
-RF7. O sistema deverá permitir a gestão CRUD dos projetos.
-RF8. O sistema deverá permitir fazer o upload de diagramas nos formatos especificados.
-RF9. O sistema deverá permitir ao utilizador a gestão dos seus diagramas.
-RF10. O sistema deverá permitir a criação e setup de um projeto.
-RF11. O sistema deverá permitir uma integração com vários repositórios de código diferentes.
-RF12. O sistema deverá permitir realizar uma análise e estimativa de custos do projeto.
-RF13. O sistema deverá permitir gerar o código para o utilizador através do AI.
-RF14. O sistema deverá permitir a revisão e validação do código pelo utilizador.
-RF15. O sistema deverá permitir consultar estatísticas de utilizador.
-RF15. O sistema deverá permitir enviar notificações ao utilizador em cada etapa.
-RF16. O sistema deverá permitir desativar/ativar notificações.
+RF1- O sistema deverá pedir um nome de utilizador.
+RF2- O sistema deverá pedir uma palavra-passe ao utilizador.
+RF3- O sistema deverá pedir um email ao utilizador.
+RF4- O sistema deverá ter um processo de login com two-factor authentication.
+RNF6- O sistema deverá permitir ao utilizador dar log-in com o email ou o nome de utilizador.
+RF7- O sistema deverá permitir ao utilizador esconder ou mostrar a palavra-passe enquanto escreve para segurança(toggle).
+RF8- O sistema deverá permitir ao utilizador criar um perfil.
+RF9- O sistema deverá permitir ao utilizador modificar o perfil.
+RF10- O sistema deverá permitir ao utilizador eliminar o seu perfil.
+RF11- O sistema deverá permitir ao utilizador comprar tokens.
+RF12- O sistema deverá permitir ao utilizador escolher uma forma de pagamento para os tokens.
+RF13- O sistema deverá permitir consulta dos tokens.
+RF14- O sistema deverá permitir o cálculo do consumo de tokens.
+RF15- O sistema deverá permitir ao utilizador criar um projeto.
+RF16- O sistema deverá permitir ao utilizador modificar o projeto.
+RF17- O sistema deverá permitir ao utilizador eliminar um projeto.
+RF18- O sistema deverá permitir fazer o upload de diagramas nos formatos especificados.
+RF19- O sistema deverá permitir ao utilizador a gestão dos seus diagramas.
+RF20- O sistema deverá permitir uma integração com vários repositórios de código diferentes.
+RF21- O sistema deverá mostrar uma estimativa do custo do projeto ao utilizador.
+RF22- O sistema deverá permitir ao utilizador cancelar o plano.
+RF23- A plataforma deverá permitir ao utilizador escolher a linguagem em que quer que o seu código seja gerado.
+RF24- O sistema deverá gerar o código para o utilizador através do AI.
+RF25- O sistema deverá permitir a revisão e validação do código pelo utilizador.
+RF26- O sistema deverá consultar estatísticas de utilizador.
+RF27- O sistema deverá permitir enviar notificações ao utilizador em cada etapa do processo.
+RF28- O sistema deverá permitir desativar/ativar notificações.
+
+
+Levantamento de requisitos não funcionais
+
+RnF1- Os diagramas a serem submetidos no website devem ser desenhados em formato CASE.
+RnF2-A plataforma deverá aceitar os formatos de diagrama mais comuns.
+RnF3- A plataforma deverá ser programada em python.
+RnF4- A plataforma deverá ter um leque de 5 cores diferentes.
+RnF5- A plataforma deverá limitar o utilizador a submeter um diagrama de cada vez.
+RnF6- A plataforma deverá permitir ao utilizador comprar tokens através de MBWay, Paypal, referência multibanco, cartão de crédito ou paysafe.
+RnF7- A plataforma deverá suportar as seguintes linguagens para gerar o código: java, python, C#, javascript, PHP.
+RnF8- A plataforma deverá enviar as notificações de progresso por email.
+RnF9- O sistema de autenticação por dois fatores da plataforma deve suportar autenticação por sms e por TOTP.(tipo autenticador google)
+RnF10- A plataforma deverá suportar qualquer repositório git.
+
+
+
