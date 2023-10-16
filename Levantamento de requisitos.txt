@@ -4,7 +4,7 @@ RF1- O sistema deverá pedir um nome de utilizador.
 RF2- O sistema deverá pedir uma palavra-passe ao utilizador.
 RF3- O sistema deverá pedir um email ao utilizador.
 RF4- O sistema deverá ter um processo de login com two-factor authentication.
-RN5- O sistema deverá permitir ao utilizador dar log-in com o email ou o nome de utilizador.
+RF5- O sistema deverá permitir ao utilizador dar log-in com o email ou o nome de utilizador.
 RF6- O sistema deverá permitir ao utilizador esconder ou mostrar a palavra-passe enquanto escreve para segurança(toggle).
 RF7- O sistema deverá permitir ao utilizador criar um perfil.
 RF8- O sistema deverá permitir ao utilizador modificar o perfil.
