@@ -3,6 +3,7 @@ Levantamento de requisitos funcionais:
 RF1- O sistema deverá pedir um nome de utilizador.
 RF2- O sistema deverá pedir uma palavra-passe ao utilizador.
 RF3- O sistema deverá pedir um email ao utilizador.
+RF - O sistema deverá enviar um email de verificação de conta ao utilizador.
 RF4- O sistema deverá ter um processo de login com two-factor authentication.
 RF5- O sistema deverá permitir ao utilizador dar log-in com o email ou o nome de utilizador.
 RF6- O sistema deverá permitir ao utilizador esconder ou mostrar a palavra-passe enquanto escreve para segurança(toggle).
@@ -12,7 +13,7 @@ RF9- O sistema deverá permitir ao utilizador eliminar o seu perfil.
 RF10- O sistema deverá permitir ao utilizador comprar tokens.
 RF11- O sistema deverá permitir ao utilizador escolher uma forma de pagamento para os tokens.
 RF12- O sistema deverá permitir consulta dos tokens.
-RF13- O sistema deverá permitir o cálculo do consumo de tokens.
+RF13- O sistema deverá mostrar o histórico de tokens utilizados.
 RF14- O sistema deverá permitir ao utilizador criar um projeto.
 RF15- O sistema deverá permitir ao utilizador modificar o projeto.
 RF16- O sistema deverá permitir ao utilizador eliminar um projeto.
@@ -32,11 +33,11 @@ RF27- O sistema deverá permitir desativar/ativar notificações.
 Levantamento de requisitos não funcionais:
 
 RnF1- Os diagramas a serem submetidos no website devem ser desenhados em formato CASE.
-RnF2-A plataforma deverá aceitar os formatos de diagrama mais comuns.
+RnF2- A plataforma deverá aceitar os formatos de diagrama mais comuns.
 RnF3- A plataforma deverá ser programada em python.
 RnF4- A plataforma deverá ter um leque de 5 cores diferentes.
 RnF5- A plataforma deverá limitar o utilizador a submeter um diagrama de cada vez.
-RnF6- A plataforma deverá permitir ao utilizador comprar tokens através de MBWay, Paypal, referência multibanco, cartão de crédito ou paysafe.
+RnF6- A plataforma deverá permitir ao utilizador comprar tokens através de MBWay, Paypal, referência multibanco, cartão de crédito ou payshop.
 RnF7- A plataforma deverá suportar as seguintes linguagens para gerar o código: java, python, C#, javascript, PHP.
 RnF8- A plataforma deverá enviar as notificações de progresso por email.
 RnF9- O sistema de autenticação por dois fatores da plataforma deve suportar autenticação por sms e por TOTP.(tipo autenticador google)
