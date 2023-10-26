@@ -21,7 +21,7 @@ RF17- O sistema deverá permitir fazer o upload de diagramas nos formatos especi
 RF18- O sistema deverá permitir ao utilizador a gestão dos seus diagramas.
 RF19- O sistema deverá permitir uma integração com vários repositórios de código diferentes.
 RF20- O sistema deverá mostrar uma estimativa do custo do projeto ao utilizador.
-RF21- O sistema deverá permitir ao utilizador cancelar o plano.
+RF21- O sistema deverá permitir ao utilizador cancelar o projeto depois de calcular.
 RF22- A plataforma deverá permitir ao utilizador escolher a linguagem em que quer que o seu código seja gerado.
 RF23- O sistema deverá gerar o código para o utilizador através do AI.
 RF24- O sistema deverá permitir a revisão e validação do código pelo utilizador.
